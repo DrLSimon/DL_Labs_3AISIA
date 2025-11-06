@@ -9,8 +9,8 @@
 | 4   | DL architectures                          | siamese networks, metric learning                    |
 | 5   | RNN, transformers, word2vec               | sequences and transformers                           |
 | 6   | representaiton learning (1H)              | representation learning, finetuning, doman adaptation|
-| 7   | trustable AI                              | robust and explainable AI                            |
-| 8   | generative models (1H)                    | Autoencoders, GANs                                   |
+| 7   | x AI                              | robust and explainable AI                            |
+ 
 
 `
 
